@@ -80,6 +80,16 @@ end
 1.  Item three
 1.  Item four
 
+### Bars
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
+
 ### And a nested list:
 
 - level 1 item
@@ -118,14 +128,6 @@ end
 <dd>Green</dd>
 </dl>
 
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
 * * *
 
