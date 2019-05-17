@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Link to DEV page](./dev.html).
+[Link to DEV page](./dev.html). [Link to Kahoot Smashack](./kahootsmashack).
+
 
 
 
