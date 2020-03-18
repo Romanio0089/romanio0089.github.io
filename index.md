@@ -17,4 +17,4 @@ layout: default
 
 This website was not fully coded by me unfourtunately. The website that I fully coded is : http://downtherack.free.fr/
 
-• 2020 Romanio0089 / RoxG
+• 2020 Romanio0089 / CraizyRox
