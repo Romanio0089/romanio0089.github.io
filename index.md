@@ -2,16 +2,18 @@
 layout: default
 ---
 
-[Link to DEV page](./dev.html) / [Link to Kahoot Smashack](./kahootsmashack)
+**Menu :**
+[Kahoot Smashack (PATCHED)](./kahootsmashack) / [YDler](http://ydler.c1.biz/)
 
 
 
 
-# My website is in developpment.
+# This website is in developpment.
 
 
 
 * * *
+[Link to DEV page](./dev.html)
 
 This website was not fully coded by me unfourtunately. The website that I fully coded is : http://downtherack.free.fr/
 
