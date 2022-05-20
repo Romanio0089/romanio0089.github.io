@@ -8,7 +8,7 @@ layout: default
 
 
 
-# This website is in developpment.
+# This website is in development.
 
 
 
