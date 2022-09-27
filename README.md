@@ -1,4 +1,2 @@
 # romanio0089.github.io
-The repo of my GitHub website.
-
-## This website is currently discontinued, but might be revived in the future.
+This site is used to showcase various projects found on my GitHub repositories. The main page is deprecated and will not be updated anymore until further notice.
