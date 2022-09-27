@@ -3,16 +3,16 @@ layout: default
 ---
 
 **Menu :**
-[Kahoot Smashack (PATCHED)](./kahootsmashack) / [YDler](http://ydler.c1.biz/)
+[Kahoot Smashack (PATCHED)](./kahootsmashack)
 
 
 
 
-# This website is in development.
+# This page is deprecated, and will not be updated anymore until further notice.
 
 
 
 * * *
-[Link to DEV page](./dev.html)
+[Link to dev page](./dev.html)
 
-• 2020 Romanio0089 / CraizyRox
+2022 • Romanio0089
